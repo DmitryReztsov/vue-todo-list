@@ -11,7 +11,7 @@ App can fetch todos from fake server with pagination, create todos, delete and u
 - Typescript
 - REST API with Axios
 - vite
-- sass
+- Vuetify + sass
 
 For development mode you need to create ``.env`` with variable for jsonplaceholder url like in ``.env.example`` 
 
